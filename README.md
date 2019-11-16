@@ -23,3 +23,5 @@ Simply enter the name of the superhero you would like to know, and click Kapow! 
 - Maribeth Hardwick
 - Mario Lopez
 - Naldo Tumundo
+
+Link to Heroku Deployed page: https://pacific-falls-62966.herokuapp.com/
